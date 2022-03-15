@@ -8,7 +8,8 @@ Simple web scrapper mainly because I was curious between VS Code & IntelliJ soft
   - Pandas, Selenium
 
 ## Result:
-<br />
+<br/>
 https://public.tableau.com/app/profile/jcesena/viz/IDEPopularColorThemes/IDEThemes
-<br />
+<br/>
+
 ![Alt text](/../main/color_themes_tableau.png?raw=true "Output")
