@@ -1,6 +1,6 @@
 # IDE Theme Scrapper
 
-## Introduction
+## General Info
 Simple web scrapper mainly because I was curious between VS Code & IntelliJ software, which color themes were the most popular. The scrapper data required a bit of transformation for it to be usable, but it would allow the creation of an interactive dashboard.
 
 ## Technologies
