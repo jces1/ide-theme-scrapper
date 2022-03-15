@@ -4,7 +4,7 @@
 Simple web scrapper mainly because I was curious between VS Code & IntelliJ software, which color themes were the most popular. The scrapper data required a bit of transformation for it to be usable, but it would allow the creation of an interactive dashboard.
 
 ## Technologies
-- Python 3 <br/>
+- Python 3.9 <br/>
   - Pandas, Selenium
 
 ## Result:
