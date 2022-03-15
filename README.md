@@ -1,8 +1,13 @@
-# ide-theme-scrapper
+# IDE Theme Scrapper
 
-Simple web scrapper mainly because I was curious between VS Code & IntelliJ software, which color themes were the most popular. I also had a silly idea to play with sheet swaps in Tableau.
+## Introduction
+Simple web scrapper mainly because I was curious between VS Code & IntelliJ software, which color themes were the most popular. The scrapper data required a bit of transformation for it to be usable, but it would allow the creation of an interactive dashboard.
 
-End result:
+## Technologies
+- Python 3 <br/>
+  - Pandas, Selenium
+
+## Result:
 <br />
 https://public.tableau.com/app/profile/jcesena/viz/IDEPopularColorThemes/IDEThemes
 <br />
